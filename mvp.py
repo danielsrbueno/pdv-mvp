@@ -1,5 +1,3 @@
-# adicionar campo de código de barras, colocar qr do pix do michel, integrar com sqlite, tabelas: carrinho, produtos registrados, usrAdm e historico de compras
-
 import tkinter as tk
 from tkinter import ttk, messagebox
 import sqlite3
